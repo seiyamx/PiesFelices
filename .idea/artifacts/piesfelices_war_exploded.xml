@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="piesfelices:war exploded">
+    <output-path>$PROJECT_DIR$/../../Software/apache-tomcat/webapps/piesfelices</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="piesfelices/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="piesfelices" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
