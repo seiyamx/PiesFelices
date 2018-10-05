@@ -20,6 +20,7 @@
         <div class="login-logo">
             <a href="login.jsp"><strong>PIES</strong> Felices</a>
         </div>
+        <%-- /.login-logo --%>
         <div class="login-box-body">
             <p class="login-box-msg">Ingresa al sistema</p>
             <form action="index.jsp"  method="post">
@@ -33,7 +34,7 @@
                 </div>
             </form>
         </div>
-        <%-- /.login-logo --%>
+        <%-- /.login-body --%>
     </div>
 </body>
 </html>
