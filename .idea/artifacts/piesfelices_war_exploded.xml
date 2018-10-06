@@ -7,6 +7,9 @@
         <element id="directory" name="classes">
           <element id="module-output" name="piesfelices" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="MySQL" />
+        </element>
       </element>
     </root>
   </artifact>
